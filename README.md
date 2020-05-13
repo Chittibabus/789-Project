@@ -7,5 +7,6 @@ we have used data from the below links:
 2. https://www.chicago.gov/city/en/dataset/street_lights_out.html ----- streetlight outages data of all type of outages have been taken from this website.
 
 code:
-1. The python file "CrimeCount" is used to generate an excel file which contains the count of the crimes, this gives us three merged files of crimes and outages.
-2. The r code "PoisonGLM generation" is used for generatiing Poisson GLM and generating crime rate.
+1. The ipynb file is the data pre processing and data cleaning file the same code should be used for all the 3 streetlight outage files.
+2. The python file "CrimeCount" is used to generate an excel file which contains the count of the crimes, this gives us three merged files of crimes and outages.
+3. The r code "PoisonGLM generation" is used for generatiing Poisson GLM and generating crime rate.
